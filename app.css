@@ -4,11 +4,15 @@
     justify-content: center;
 }
 
-.navigation button{
+.navigation button {
     border: none;
     background-color: transparent;
     padding: 0 13px;
+    font-size: 18px;
+    color: #FF0070;
 }
-
+.navigation button:hover {
+    cursor: pointer;
+}
 
 
