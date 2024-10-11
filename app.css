@@ -34,3 +34,8 @@ html {
     border: 1px solid #ff0070 !important; 
 } 
 }
+h1 {
+    font-weight: 700;
+    line-height: 83%;
+    font-family: IBM Plex Mono;
+}
