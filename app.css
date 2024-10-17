@@ -35,13 +35,16 @@ html {
 } 
 }
 
-h1 {
+.zactavka01 {
     text-shadow: 4px 4px  #ff0070;
-    font-family:"IBM Plex Mono" sans-serif;
+    font-family:"IBM Plex Mono";
     font-weight: 700;
     font-size: 157px;
     line-height: 83%;
     color: #db00ff;
-
+}
+.lampa{
+    font-family:"IBM Plex Mono";
+    color: #FF0070;
 
 }
